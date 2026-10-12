@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite this research software when reusing the experiments."
+title: "When Recalibration Helps: Reproducible Experiments"
+type: software
+version: 1.0.0
+date-released: 2026-10-12
+license: MIT
+authors:
+  - family-names: Yavas
+    given-names: Cemil Emre
+    orcid: "https://orcid.org/0009-0006-9552-1731"
+    affiliation: "School of Computing, Georgia Southern University"
+keywords:
+  - autonomous experimentation
+  - measurement drift
+  - Bayesian optimization
+  - recalibration
+  - value of information

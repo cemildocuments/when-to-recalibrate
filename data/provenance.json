@@ -1,0 +1,44 @@
+[
+  {
+    "dataset": "hplc",
+    "file": "config.json",
+    "url": "https://raw.githubusercontent.com/the-matter-lab/olympus/440b6b58ebfcaa2391cff7e94b570fb4fda98d68/src/olympus/datasets/dataset_hplc/config.json",
+    "sha256": "42395e0235ea242c6f444be84c9c5d36bf4ce1142ba670ae26429acd63621a3b"
+  },
+  {
+    "dataset": "hplc",
+    "file": "data.csv",
+    "url": "https://raw.githubusercontent.com/the-matter-lab/olympus/440b6b58ebfcaa2391cff7e94b570fb4fda98d68/src/olympus/datasets/dataset_hplc/data.csv",
+    "sha256": "9c94222798229c1391f75445f44d9c0ed285e83c1b1e0608ab76b28bf05decef"
+  },
+  {
+    "dataset": "hplc",
+    "file": "description.txt",
+    "url": "https://raw.githubusercontent.com/the-matter-lab/olympus/440b6b58ebfcaa2391cff7e94b570fb4fda98d68/src/olympus/datasets/dataset_hplc/description.txt",
+    "sha256": "f6d47a18ddd8adfe4427b091ed2dc926c84303a394bb47a6ea5741bb4078f33c"
+  },
+  {
+    "dataset": "photo_pce10",
+    "file": "config.json",
+    "url": "https://raw.githubusercontent.com/the-matter-lab/olympus/440b6b58ebfcaa2391cff7e94b570fb4fda98d68/src/olympus/datasets/dataset_photo_pce10/config.json",
+    "sha256": "89c45acb702c5489bc8669c5f454126ebda4e3c843e5a29cded9b004b93c3b31"
+  },
+  {
+    "dataset": "photo_pce10",
+    "file": "data.csv",
+    "url": "https://raw.githubusercontent.com/the-matter-lab/olympus/440b6b58ebfcaa2391cff7e94b570fb4fda98d68/src/olympus/datasets/dataset_photo_pce10/data.csv",
+    "sha256": "b41c72b8e38e73a5ddd175db19e62f1bbd51da75e040fe6bd08afbdf87f0c4cf"
+  },
+  {
+    "dataset": "photo_pce10",
+    "file": "description.txt",
+    "url": "https://raw.githubusercontent.com/the-matter-lab/olympus/440b6b58ebfcaa2391cff7e94b570fb4fda98d68/src/olympus/datasets/dataset_photo_pce10/description.txt",
+    "sha256": "d355073280600ca196509018a911793032b5225007c71f6370dc9295e7b16202"
+  },
+  {
+    "dataset": "license",
+    "file": "LICENSE",
+    "url": "https://raw.githubusercontent.com/the-matter-lab/olympus/440b6b58ebfcaa2391cff7e94b570fb4fda98d68/LICENSE",
+    "sha256": "954c5cce3c2e24556ac14b940dfb071bc15947b03e9eb62acf4c7e7d1946f3f1"
+  }
+]

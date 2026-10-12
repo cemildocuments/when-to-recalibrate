@@ -1,0 +1,36 @@
+{
+  "created_utc": "2026-10-12T15:50:57.579647+00:00",
+  "primary_outcome": "Terminal simple regret; equal-weight mean over 64 nonzero-drift dataset/regime/reference-cost conditions. Zero-drift controls reported separately.",
+  "inference": "Paired percentile bootstrap of the 200 independent seed clusters, 10000 replicates; preserve all conditions and policies within each seed.",
+  "comparison": "Adaptive versus separately validation-tuned periodic, threshold and temporal baselines, joint model without references, dueling baselines, stationary model; oracle is an information-advantaged diagnostic.",
+  "validation_seeds": [
+    40,
+    59
+  ],
+  "test_seeds": [
+    1000,
+    1199
+  ],
+  "stress_seeds": [
+    2000,
+    2099
+  ],
+  "matched_model_seeds": [
+    3000,
+    3999
+  ],
+  "adaptation": "No parameter changes after observing held-out results.",
+  "config_sha256": {
+    "main": "70a7c14ad49b1bd4db254028d93fd785fc933dfedd77a475bf44d2f618df2a60",
+    "budgets": "037e3454d529a13b147eefdbc090a5a2d9f0524f5b9ce4e478aed46cb2d26b72",
+    "paired": "e52fa9686535ed66ac246f7b1d11d8460e95c1aac02cdf9fe320c77c69d8db2e",
+    "stress": "a9aa1311ad676d3852a73d598725015e2608759db3f8f4d8e7e4c47cb6ff41d2",
+    "matched": "b54b75df3c3697d5001f21d51797d79a5dd5d9578b658fef0a215adb1ad1b180"
+  },
+  "code_sha256": {
+    "src/recalibrate/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src/recalibrate/core.py": "58f3fae67bbd3f3352104fdb9ac039b1145fa13b4c5cc0dcf60c80257c6ce33e",
+    "src/recalibrate/data.py": "545b475ce7682f3cb11e7df83394b5870839f85248bca6b9051950192083d2f0",
+    "src/recalibrate/duel.py": "c20e5817e57bf90074e0af77afbf415950e8bf75be8e428520f11ff734c30c05"
+  }
+}

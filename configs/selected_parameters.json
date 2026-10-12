@@ -1,0 +1,562 @@
+[
+  {
+    "dataset": "branin",
+    "ref_cost": 0.25,
+    "policy": "duel_ids",
+    "beta": 2.0,
+    "validation_regret": 0.01018007658082759
+  },
+  {
+    "dataset": "branin",
+    "ref_cost": 0.25,
+    "policy": "periodic",
+    "period": 32,
+    "validation_regret": 0.00790727584440621
+  },
+  {
+    "dataset": "branin",
+    "ref_cost": 0.25,
+    "policy": "residual",
+    "threshold": 2.0,
+    "validation_regret": 0.007638924399011031
+  },
+  {
+    "dataset": "branin",
+    "ref_cost": 0.25,
+    "policy": "timegp",
+    "rho": 0.995,
+    "validation_regret": 0.01264420146595387
+  },
+  {
+    "dataset": "branin",
+    "ref_cost": 0.25,
+    "policy": "variance",
+    "threshold": 0.05,
+    "validation_regret": 0.00668615428142034
+  },
+  {
+    "dataset": "branin",
+    "ref_cost": 0.5,
+    "policy": "duel_ids",
+    "beta": 2.0,
+    "validation_regret": 0.01018007658082759
+  },
+  {
+    "dataset": "branin",
+    "ref_cost": 0.5,
+    "policy": "periodic",
+    "period": 32,
+    "validation_regret": 0.007370195501841821
+  },
+  {
+    "dataset": "branin",
+    "ref_cost": 0.5,
+    "policy": "residual",
+    "threshold": 2.0,
+    "validation_regret": 0.008805019083406931
+  },
+  {
+    "dataset": "branin",
+    "ref_cost": 0.5,
+    "policy": "timegp",
+    "rho": 0.995,
+    "validation_regret": 0.01264420146595387
+  },
+  {
+    "dataset": "branin",
+    "ref_cost": 0.5,
+    "policy": "variance",
+    "threshold": 0.1,
+    "validation_regret": 0.007329284826662671
+  },
+  {
+    "dataset": "branin",
+    "ref_cost": 1.0,
+    "policy": "duel_ids",
+    "beta": 2.0,
+    "validation_regret": 0.01018007658082759
+  },
+  {
+    "dataset": "branin",
+    "ref_cost": 1.0,
+    "policy": "periodic",
+    "period": 16,
+    "validation_regret": 0.007276518685224871
+  },
+  {
+    "dataset": "branin",
+    "ref_cost": 1.0,
+    "policy": "residual",
+    "threshold": 1.5,
+    "validation_regret": 0.007749244718706911
+  },
+  {
+    "dataset": "branin",
+    "ref_cost": 1.0,
+    "policy": "timegp",
+    "rho": 0.995,
+    "validation_regret": 0.01264420146595387
+  },
+  {
+    "dataset": "branin",
+    "ref_cost": 1.0,
+    "policy": "variance",
+    "threshold": 0.15,
+    "validation_regret": 0.0082503376931952
+  },
+  {
+    "dataset": "branin",
+    "ref_cost": 2.0,
+    "policy": "duel_ids",
+    "beta": 2.0,
+    "validation_regret": 0.01018007658082759
+  },
+  {
+    "dataset": "branin",
+    "ref_cost": 2.0,
+    "policy": "periodic",
+    "period": 16,
+    "validation_regret": 0.008211748294420671
+  },
+  {
+    "dataset": "branin",
+    "ref_cost": 2.0,
+    "policy": "residual",
+    "threshold": 2.0,
+    "validation_regret": 0.00813617129068434
+  },
+  {
+    "dataset": "branin",
+    "ref_cost": 2.0,
+    "policy": "timegp",
+    "rho": 0.995,
+    "validation_regret": 0.01264420146595387
+  },
+  {
+    "dataset": "branin",
+    "ref_cost": 2.0,
+    "policy": "variance",
+    "threshold": 0.15,
+    "validation_regret": 0.008012426720477311
+  },
+  {
+    "dataset": "gp",
+    "ref_cost": 0.25,
+    "policy": "duel_ids",
+    "beta": 3.0,
+    "validation_regret": 0.01700086122427371
+  },
+  {
+    "dataset": "gp",
+    "ref_cost": 0.25,
+    "policy": "periodic",
+    "period": 16,
+    "validation_regret": 0.00041873514341273004
+  },
+  {
+    "dataset": "gp",
+    "ref_cost": 0.25,
+    "policy": "residual",
+    "threshold": 1.5,
+    "validation_regret": 0.00030733201181541004
+  },
+  {
+    "dataset": "gp",
+    "ref_cost": 0.25,
+    "policy": "timegp",
+    "rho": 0.995,
+    "validation_regret": 0.009964480995898261
+  },
+  {
+    "dataset": "gp",
+    "ref_cost": 0.25,
+    "policy": "variance",
+    "threshold": 0.15,
+    "validation_regret": 0.00114587196100975
+  },
+  {
+    "dataset": "gp",
+    "ref_cost": 0.5,
+    "policy": "duel_ids",
+    "beta": 3.0,
+    "validation_regret": 0.01700086122427371
+  },
+  {
+    "dataset": "gp",
+    "ref_cost": 0.5,
+    "policy": "periodic",
+    "period": 4,
+    "validation_regret": 0.00086687974742296
+  },
+  {
+    "dataset": "gp",
+    "ref_cost": 0.5,
+    "policy": "residual",
+    "threshold": 1.5,
+    "validation_regret": 0.00141707252613228
+  },
+  {
+    "dataset": "gp",
+    "ref_cost": 0.5,
+    "policy": "timegp",
+    "rho": 0.995,
+    "validation_regret": 0.009964480995898261
+  },
+  {
+    "dataset": "gp",
+    "ref_cost": 0.5,
+    "policy": "variance",
+    "threshold": 0.1,
+    "validation_regret": 0.00048710021011013
+  },
+  {
+    "dataset": "gp",
+    "ref_cost": 1.0,
+    "policy": "duel_ids",
+    "beta": 3.0,
+    "validation_regret": 0.01700086122427371
+  },
+  {
+    "dataset": "gp",
+    "ref_cost": 1.0,
+    "policy": "periodic",
+    "period": 4,
+    "validation_regret": 0.0010808346212420202
+  },
+  {
+    "dataset": "gp",
+    "ref_cost": 1.0,
+    "policy": "residual",
+    "threshold": 1.5,
+    "validation_regret": 0.0007095349320277601
+  },
+  {
+    "dataset": "gp",
+    "ref_cost": 1.0,
+    "policy": "timegp",
+    "rho": 0.995,
+    "validation_regret": 0.009964480995898261
+  },
+  {
+    "dataset": "gp",
+    "ref_cost": 1.0,
+    "policy": "variance",
+    "threshold": 0.15,
+    "validation_regret": 0.00154223666220972
+  },
+  {
+    "dataset": "gp",
+    "ref_cost": 2.0,
+    "policy": "duel_ids",
+    "beta": 3.0,
+    "validation_regret": 0.01700086122427371
+  },
+  {
+    "dataset": "gp",
+    "ref_cost": 2.0,
+    "policy": "periodic",
+    "period": 8,
+    "validation_regret": 0.00168555316653425
+  },
+  {
+    "dataset": "gp",
+    "ref_cost": 2.0,
+    "policy": "residual",
+    "threshold": 1.5,
+    "validation_regret": 0.0019491752867207702
+  },
+  {
+    "dataset": "gp",
+    "ref_cost": 2.0,
+    "policy": "timegp",
+    "rho": 0.995,
+    "validation_regret": 0.009964480995898261
+  },
+  {
+    "dataset": "gp",
+    "ref_cost": 2.0,
+    "policy": "variance",
+    "threshold": 0.15,
+    "validation_regret": 0.0034375716769989104
+  },
+  {
+    "dataset": "hplc",
+    "ref_cost": 0.25,
+    "policy": "duel_ids",
+    "beta": 3.0,
+    "validation_regret": 0.07714399627266819
+  },
+  {
+    "dataset": "hplc",
+    "ref_cost": 0.25,
+    "policy": "periodic",
+    "period": 1000,
+    "validation_regret": 0.03765572710295839
+  },
+  {
+    "dataset": "hplc",
+    "ref_cost": 0.25,
+    "policy": "residual",
+    "threshold": 4.0,
+    "validation_regret": 0.03765572710295839
+  },
+  {
+    "dataset": "hplc",
+    "ref_cost": 0.25,
+    "policy": "timegp",
+    "rho": 0.995,
+    "validation_regret": 0.06561271694541329
+  },
+  {
+    "dataset": "hplc",
+    "ref_cost": 0.25,
+    "policy": "variance",
+    "threshold": 0.25,
+    "validation_regret": 0.03765572710295839
+  },
+  {
+    "dataset": "hplc",
+    "ref_cost": 0.5,
+    "policy": "duel_ids",
+    "beta": 3.0,
+    "validation_regret": 0.07714399627266819
+  },
+  {
+    "dataset": "hplc",
+    "ref_cost": 0.5,
+    "policy": "periodic",
+    "period": 1000,
+    "validation_regret": 0.03765572710295839
+  },
+  {
+    "dataset": "hplc",
+    "ref_cost": 0.5,
+    "policy": "residual",
+    "threshold": 3.0,
+    "validation_regret": 0.03765572710295839
+  },
+  {
+    "dataset": "hplc",
+    "ref_cost": 0.5,
+    "policy": "timegp",
+    "rho": 0.995,
+    "validation_regret": 0.06561271694541329
+  },
+  {
+    "dataset": "hplc",
+    "ref_cost": 0.5,
+    "policy": "variance",
+    "threshold": 0.25,
+    "validation_regret": 0.03765572710295839
+  },
+  {
+    "dataset": "hplc",
+    "ref_cost": 1.0,
+    "policy": "duel_ids",
+    "beta": 3.0,
+    "validation_regret": 0.07714399627266819
+  },
+  {
+    "dataset": "hplc",
+    "ref_cost": 1.0,
+    "policy": "periodic",
+    "period": 1000,
+    "validation_regret": 0.03765572710295839
+  },
+  {
+    "dataset": "hplc",
+    "ref_cost": 1.0,
+    "policy": "residual",
+    "threshold": 3.0,
+    "validation_regret": 0.03765572710295839
+  },
+  {
+    "dataset": "hplc",
+    "ref_cost": 1.0,
+    "policy": "timegp",
+    "rho": 0.995,
+    "validation_regret": 0.06561271694541329
+  },
+  {
+    "dataset": "hplc",
+    "ref_cost": 1.0,
+    "policy": "variance",
+    "threshold": 0.25,
+    "validation_regret": 0.03765572710295839
+  },
+  {
+    "dataset": "hplc",
+    "ref_cost": 2.0,
+    "policy": "duel_ids",
+    "beta": 3.0,
+    "validation_regret": 0.07714399627266819
+  },
+  {
+    "dataset": "hplc",
+    "ref_cost": 2.0,
+    "policy": "periodic",
+    "period": 1000,
+    "validation_regret": 0.03765572710295839
+  },
+  {
+    "dataset": "hplc",
+    "ref_cost": 2.0,
+    "policy": "residual",
+    "threshold": 3.0,
+    "validation_regret": 0.03765572710295839
+  },
+  {
+    "dataset": "hplc",
+    "ref_cost": 2.0,
+    "policy": "timegp",
+    "rho": 0.995,
+    "validation_regret": 0.06561271694541329
+  },
+  {
+    "dataset": "hplc",
+    "ref_cost": 2.0,
+    "policy": "variance",
+    "threshold": 0.25,
+    "validation_regret": 0.03765572710295839
+  },
+  {
+    "dataset": "photo_pce10",
+    "ref_cost": 0.25,
+    "policy": "duel_ids",
+    "beta": 3.0,
+    "validation_regret": 0.01957960131597477
+  },
+  {
+    "dataset": "photo_pce10",
+    "ref_cost": 0.25,
+    "policy": "periodic",
+    "period": 16,
+    "validation_regret": 0.006468117697490401
+  },
+  {
+    "dataset": "photo_pce10",
+    "ref_cost": 0.25,
+    "policy": "residual",
+    "threshold": 1.5,
+    "validation_regret": 0.007957482441683551
+  },
+  {
+    "dataset": "photo_pce10",
+    "ref_cost": 0.25,
+    "policy": "timegp",
+    "rho": 0.995,
+    "validation_regret": 0.03049419566738389
+  },
+  {
+    "dataset": "photo_pce10",
+    "ref_cost": 0.25,
+    "policy": "variance",
+    "threshold": 0.15,
+    "validation_regret": 0.008988077613304562
+  },
+  {
+    "dataset": "photo_pce10",
+    "ref_cost": 0.5,
+    "policy": "duel_ids",
+    "beta": 3.0,
+    "validation_regret": 0.01957960131597477
+  },
+  {
+    "dataset": "photo_pce10",
+    "ref_cost": 0.5,
+    "policy": "periodic",
+    "period": 8,
+    "validation_regret": 0.007331909343128601
+  },
+  {
+    "dataset": "photo_pce10",
+    "ref_cost": 0.5,
+    "policy": "residual",
+    "threshold": 1.5,
+    "validation_regret": 0.0074888575120668315
+  },
+  {
+    "dataset": "photo_pce10",
+    "ref_cost": 0.5,
+    "policy": "timegp",
+    "rho": 0.995,
+    "validation_regret": 0.03049419566738389
+  },
+  {
+    "dataset": "photo_pce10",
+    "ref_cost": 0.5,
+    "policy": "variance",
+    "threshold": 0.1,
+    "validation_regret": 0.00961100602028301
+  },
+  {
+    "dataset": "photo_pce10",
+    "ref_cost": 1.0,
+    "policy": "duel_ids",
+    "beta": 3.0,
+    "validation_regret": 0.01957960131597477
+  },
+  {
+    "dataset": "photo_pce10",
+    "ref_cost": 1.0,
+    "policy": "periodic",
+    "period": 8,
+    "validation_regret": 0.00863098904764541
+  },
+  {
+    "dataset": "photo_pce10",
+    "ref_cost": 1.0,
+    "policy": "residual",
+    "threshold": 2.0,
+    "validation_regret": 0.00982870009372298
+  },
+  {
+    "dataset": "photo_pce10",
+    "ref_cost": 1.0,
+    "policy": "timegp",
+    "rho": 0.995,
+    "validation_regret": 0.03049419566738389
+  },
+  {
+    "dataset": "photo_pce10",
+    "ref_cost": 1.0,
+    "policy": "variance",
+    "threshold": 0.15,
+    "validation_regret": 0.0078119582775699505
+  },
+  {
+    "dataset": "photo_pce10",
+    "ref_cost": 2.0,
+    "policy": "duel_ids",
+    "beta": 3.0,
+    "validation_regret": 0.01957960131597477
+  },
+  {
+    "dataset": "photo_pce10",
+    "ref_cost": 2.0,
+    "policy": "periodic",
+    "period": 32,
+    "validation_regret": 0.00947293187775661
+  },
+  {
+    "dataset": "photo_pce10",
+    "ref_cost": 2.0,
+    "policy": "residual",
+    "threshold": 4.0,
+    "validation_regret": 0.01066109457435941
+  },
+  {
+    "dataset": "photo_pce10",
+    "ref_cost": 2.0,
+    "policy": "timegp",
+    "rho": 0.995,
+    "validation_regret": 0.03049419566738389
+  },
+  {
+    "dataset": "photo_pce10",
+    "ref_cost": 2.0,
+    "policy": "variance",
+    "threshold": 0.25,
+    "validation_regret": 0.01066109457435941
+  }
+]

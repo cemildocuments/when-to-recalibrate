@@ -1,0 +1,98 @@
+[
+  {
+    "dataset": "branin",
+    "budget": 15,
+    "period": 4,
+    "validation_regret": 0.017612674112002923
+  },
+  {
+    "dataset": "branin",
+    "budget": 30,
+    "period": 16,
+    "validation_regret": 0.00866792378433744
+  },
+  {
+    "dataset": "branin",
+    "budget": 60,
+    "period": 32,
+    "validation_regret": 0.007370195501841821
+  },
+  {
+    "dataset": "branin",
+    "budget": 90,
+    "period": 32,
+    "validation_regret": 0.0068952971373024505
+  },
+  {
+    "dataset": "gp",
+    "budget": 15,
+    "period": 16,
+    "validation_regret": 0.06196422904537904
+  },
+  {
+    "dataset": "gp",
+    "budget": 30,
+    "period": 16,
+    "validation_regret": 0.00988379302922848
+  },
+  {
+    "dataset": "gp",
+    "budget": 60,
+    "period": 4,
+    "validation_regret": 0.00086687974742296
+  },
+  {
+    "dataset": "gp",
+    "budget": 90,
+    "period": 2,
+    "validation_regret": 0.0
+  },
+  {
+    "dataset": "hplc",
+    "budget": 15,
+    "period": 2,
+    "validation_regret": 0.26455128012489415
+  },
+  {
+    "dataset": "hplc",
+    "budget": 30,
+    "period": 32,
+    "validation_regret": 0.14225348979855743
+  },
+  {
+    "dataset": "hplc",
+    "budget": 60,
+    "period": 1000,
+    "validation_regret": 0.03765572710295839
+  },
+  {
+    "dataset": "hplc",
+    "budget": 90,
+    "period": 32,
+    "validation_regret": 0.00856797277962402
+  },
+  {
+    "dataset": "photo_pce10",
+    "budget": 15,
+    "period": 4,
+    "validation_regret": 0.048177074855827895
+  },
+  {
+    "dataset": "photo_pce10",
+    "budget": 30,
+    "period": 8,
+    "validation_regret": 0.02229575828803481
+  },
+  {
+    "dataset": "photo_pce10",
+    "budget": 60,
+    "period": 8,
+    "validation_regret": 0.007331909343128601
+  },
+  {
+    "dataset": "photo_pce10",
+    "budget": 90,
+    "period": 4,
+    "validation_regret": 0.0036811403654361
+  }
+]

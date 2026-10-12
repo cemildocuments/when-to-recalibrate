@@ -1,0 +1,10 @@
+{
+  "frozen_utc": "2026-10-12T16:06:29.680393+00:00",
+  "reason": "Follow-up of the first budget sensitivity analysis: independently estimate reference value versus remaining measurement opportunity, including all four response families and all four budgets. Schedules are reselected for each horizon on validation data.",
+  "outcomes": "All 16 dataset/budget conditions are reported, with paired seed-cluster intervals.",
+  "test_seeds": [
+    5000,
+    5999
+  ],
+  "sha256": "cfbad60cca43ef61cdc286a4d799b1272bdb1c1c44f2ecc1c9eaf530b09b6023"
+}
